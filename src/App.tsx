@@ -220,7 +220,8 @@ function App() {
               Me contacter
             </a>
             <a 
-              href="/CV.pdf"
+              href="./CV.pdf"
+              target="_blank"
               className="flex items-center gap-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 border border-gray-500 rounded-full font-bold transition-colors"
             >
               <FileText size={20} />
