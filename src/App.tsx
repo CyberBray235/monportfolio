@@ -220,7 +220,7 @@ function App() {
               Me contacter
             </a>
             <a 
-              href="/BRAY_MADOUE_KAGONGBE_CVx (4).pdf"
+              href="/CV.pdf"
               className="flex items-center gap-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 border border-gray-500 rounded-full font-bold transition-colors"
             >
               <FileText size={20} />
